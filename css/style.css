@@ -1,3 +1,9 @@
 body {
     background-color: rgb(102, 216, 245);
 }
+
+.myfirst {
+    color: seagreen;
+    font-size: 40px;
+    
+}
